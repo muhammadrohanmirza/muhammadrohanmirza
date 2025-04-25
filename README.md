@@ -33,6 +33,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadrohanmirza&show_icons=true&locale=en" alt="muhammadrohanmirza" /></p>
 
 <p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrohanmirza" alt="muhammadrohanmirza" style="display: block; margin: 0 auto;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrohanmirza"
+     onerror="this.onerror=null; this.src='fallback.png';" 
+     alt="GitHub streak stats" />
 </p>
 

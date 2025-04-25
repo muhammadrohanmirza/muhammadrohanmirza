@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadrohanmirza&show_icons=true&locale=en" alt="muhammadrohanmirza" /></p>
 
 <p style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrohanmirza" alt="muhammadrohanmirza" style="display: inline-block;">
+  <img src="https://camo.githubusercontent.com/4e3ae0cd73fb5f8a36a8a96cca785fae7e87fff8137ec6eef1b9ebb7b8fee91e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d7568616d6d6164726f68616e6d69727a61" alt="muhammadrohanmirza" style="display: inline-block;">
 </p>
 
 

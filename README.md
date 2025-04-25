@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/ADMIN/Downloads/Black%20White%20Bold%20Simple%20Initials%20Name%20Logo.gif)](https://github.com/muhammadrohanmirza)
+[![MasterHead](file:///C:/Users/ADMIN/Downloads/Black%20White%20Bold%20Simple%20Initials%20Name%20Logo.gif)](file:///C:/Users/ADMIN/Downloads/Black%20White%20Bold%20Simple%20Initials%20Name%20Logo.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Rohan Mirza </h1>
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/23379424/file/original-50d3ae73eb06aa464eee78018d0555bf.gif">
